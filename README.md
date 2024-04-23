@@ -1,5 +1,4 @@
-<h1 align="center">Prazer, Vinicius &#128579;</h1>
-<h3 align="center">"Apenas um entusiasta dos códigos"</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viniciusabraao&label=Profile%20views&color=0e75b6&style=flat" alt="viniciusabraao" /> </p>
 

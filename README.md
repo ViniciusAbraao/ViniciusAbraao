@@ -1,7 +1,3 @@
-
-# Olá, eu sou o Vinicius! 👋
-
-
 ## 🚀 Sobre mim
 Em 2021, concluí o curso técnico de informática pelo Instituto Federal, e no ano seguinte iniciei minha graduação em Ciência da Computação. Desde 2019, venho me dedicando ao estudo da programação e, atualmente, estou focado em me tornar um desenvolvedor back-end utilizando Java.
 
